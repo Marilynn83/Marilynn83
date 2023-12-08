@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Marilynn83
-- 👀 I’m interested in python
-- 🌱 I’m currently learning to pragram using Python
-- 💞️ I’m looking to collaborate on anything
+- I have completed the CS50 Python course!
+- I am currently in the process of completing the CS50X Computer Science course, and loving every minute.
+- I am looking for a Junior / Graduate level job at the moment
 - 📫 How to reach me marilynn_w@yahoo.com
 
 <!---
