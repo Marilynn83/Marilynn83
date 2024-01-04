@@ -1,6 +1,6 @@
 - I have completed the CS50 Python course!
 - I am currently in the process of completing the CS50X Computer Science course, and loving every minute.
-- I am looking for a Junior / Graduate level job at the moment
+- Open to new job opportunities using Python, Javascript, HTML, CSS using Flask primarily.
 - 📫 How to reach me marilynn_w@yahoo.com
 
 <!---
